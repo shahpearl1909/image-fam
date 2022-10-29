@@ -1,0 +1,13 @@
+body{
+    background-color:cadetblue;
+}
+p{
+    color: rgb(8, 40, 42);
+}
+#camera{
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(255, 205, 136);
+    width:350px;
+    height:350px;
+}
